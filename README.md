@@ -142,6 +142,7 @@
 ---
 
 ### 🐍 Historial de commits
+
 ![snake gif](https://github.com/skyps2003/skyps2003/blob/output/github-contribution-grid-snake.svg)
 
 ---
