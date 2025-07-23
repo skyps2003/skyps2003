@@ -5,9 +5,13 @@ on:
     - cron: "0 0 * * *" # Ejecuta diariamente a las 00:00 UTC
   workflow_dispatch:
 
+permissions:
+  contents: write  # 👈 necesario para que GitHub Actions pueda hacer push
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -20,7 +24,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
 
       - name: Push snake animation
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
