@@ -27,7 +27,7 @@ jobs:
       - name: Publicar en la rama output
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          build_dir: dist
-          branch: output
+            build_dir: dist
+            target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
