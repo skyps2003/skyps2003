@@ -14,7 +14,7 @@
 
 </div>
 
-## Hola, soy Luis 👋
+## Hola, soy Luis
 
 Soy bachiller en **Ingeniería Informática y Sistemas**. Diseño y desarrollo productos digitales que combinan una experiencia clara, lógica de negocio sólida y tecnología escalable.
 
@@ -27,15 +27,15 @@ Mi trabajo conecta **frontend, backend, UI/UX, datos e inteligencia artificial**
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>⚡ Producto fullstack</h3>
+      <h3>Producto fullstack</h3>
       <p>Aplicaciones web, plataformas administrativas, API REST, autenticación, roles y reglas de negocio.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>◎ Experiencia UI/UX</h3>
+      <h3>Experiencia UI/UX</h3>
       <p>Interfaces accesibles, navegación intuitiva, sistemas visuales consistentes y componentes reutilizables.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>✦ Datos e IA</h3>
+      <h3>Datos e IA</h3>
       <p>Automatización, procesamiento de información, visión artificial e integración de modelos inteligentes.</p>
     </td>
   </tr>
@@ -101,10 +101,6 @@ Mi trabajo conecta **frontend, backend, UI/UX, datos e inteligencia artificial**
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=skyps2003&theme=github-compact&hide_border=true&area=true" alt="Gráfico de actividad reciente de skyps2003 en GitHub"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=skyps2003&theme=github-dark-blue&hide_border=true" alt="Racha de contribuciones de skyps2003 en GitHub"/>
 
 <br/><br/>
 

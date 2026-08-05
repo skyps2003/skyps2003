@@ -15,17 +15,15 @@
     <clipPath id="frame"><rect width="1200" height="360" rx="28"/></clipPath>
   </defs>
   <style>
-    .float { animation: float 4s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: center; }
     .pulse { animation: pulse 2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
     .cursor { animation: cursor 1s steps(1, end) infinite; }
     .signal { animation: signal 3.6s ease-out infinite; transform-box: fill-box; transform-origin: center; }
     .line { animation: line 3.2s ease-in-out infinite; }
-    @keyframes float { to { transform: translateY(-8px); } }
     @keyframes pulse { 50% { opacity: .45; transform: scale(.82); } }
     @keyframes cursor { 50% { opacity: 0; } }
     @keyframes signal { 0% { opacity: 0; transform: scale(.7); } 35% { opacity: .35; } 100% { opacity: 0; transform: scale(1.55); } }
     @keyframes line { 50% { opacity: .35; } }
-    @media (prefers-reduced-motion: reduce) { .float, .pulse, .cursor, .signal, .line { animation: none; } }
+    @media (prefers-reduced-motion: reduce) { .pulse, .cursor, .signal, .line { animation: none; } }
   </style>
 
   <g clip-path="url(#frame)">
@@ -42,19 +40,13 @@
       <circle cx="846" cy="134" r="3" fill="#60A5FA"/><circle cx="1054" cy="134" r="3" fill="#60A5FA"/>
     </g>
 
-    <g class="float">
-      <rect x="74" y="70" width="112" height="112" rx="28" fill="#0B1220" stroke="#60A5FA" stroke-width="2"/>
-      <rect x="85" y="81" width="90" height="90" rx="21" fill="none" stroke="#1E3A8A"/>
-      <text x="130" y="144" text-anchor="middle" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="46" font-weight="700">LL</text>
-    </g>
-
-    <text x="224" y="105" fill="#60A5FA" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">HOLA, SOY</text>
-    <text x="224" y="160" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="56" font-weight="700">Luis Loayza</text>
-    <text x="224" y="205" fill="#BFDBFE" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="600">Fullstack Developer · UI/UX · Data &amp; IA</text>
-    <text x="224" y="244" fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="18">Convierto ideas complejas en productos digitales claros y funcionales.</text>
-    <rect class="line" x="224" y="270" width="430" height="2" rx="1" fill="url(#line)"/>
-    <text x="224" y="305" fill="#94A3B8" font-family="Segoe UI,Arial,sans-serif" font-size="16">React  /  TypeScript  /  Node.js  /  PostgreSQL</text>
-    <rect class="cursor" x="628" y="291" width="9" height="18" rx="2" fill="#60A5FA"/>
+    <text x="78" y="105" fill="#60A5FA" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">HOLA, SOY</text>
+    <text x="78" y="160" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="56" font-weight="700">Luis Loayza</text>
+    <text x="78" y="205" fill="#BFDBFE" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="600">Fullstack Developer · UI/UX · Data &amp; IA</text>
+    <text x="78" y="244" fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="18">Convierto ideas complejas en productos digitales claros y funcionales.</text>
+    <rect class="line" x="78" y="270" width="576" height="2" rx="1" fill="url(#line)"/>
+    <text x="78" y="305" fill="#94A3B8" font-family="Segoe UI,Arial,sans-serif" font-size="16">React  /  TypeScript  /  Node.js  /  PostgreSQL</text>
+    <rect class="cursor" x="482" y="291" width="9" height="18" rx="2" fill="#60A5FA"/>
 
     <g transform="translate(887 230)">
       <rect width="245" height="52" rx="26" fill="#111827" stroke="#334155"/>
