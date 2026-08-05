@@ -1,22 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="270" viewBox="0 0 560 270">
-  <defs>
-    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0B1220"/>
-      <stop offset="100%" stop-color="#111827"/>
-    </linearGradient>
-    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#0891B2"/>
-      <stop offset="100%" stop-color="#60A5FA"/>
-    </linearGradient>
-  </defs>
-  <rect x="1" y="1" width="558" height="268" rx="22" fill="url(#card)" stroke="#263449" stroke-width="2"/>
-  <rect x="0" y="0" width="560" height="7" rx="4" fill="url(#bar)"/>
-  <text x="34" y="52" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">WIKSAYUQ</text>
-  <text x="34" y="82" fill="#60A5FA" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">Seguimiento prenatal para zonas altoandinas</text>
-  <text x="34" y="116" fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="17">Aplicación móvil para acompañamiento prenatal</text>
-  <text x="34" y="143" fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="17">con frontend Expo, backend Express y Supabase.</text>
-  <rect x="34" y="214" width="355" height="32" rx="16" fill="#172033"/>
-  <text x="50" y="235" fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="14">React Native · Expo · Node.js · Supabase</text>
-  <rect x="414" y="214" width="112" height="32" rx="16" fill="#172554"/>
-  <text x="470" y="235" text-anchor="middle" fill="#DBEAFE" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="650">40 commits</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="270" viewBox="0 0 560 270" role="img" aria-labelledby="title desc">
+  <title id="title">WIKSAYUQ</title><desc id="desc">Tarjeta de la aplicación móvil de acompañamiento prenatal.</desc>
+  <defs><linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#111827"/></linearGradient></defs>
+  <style>
+    .icon { animation: float 3.4s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: center; }
+    .dot { animation: pulse 2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes float { to { transform: translateY(-4px); } } @keyframes pulse { 50% { opacity: .45; transform: scale(.8); } }
+    @media (prefers-reduced-motion: reduce) { .icon,.dot { animation: none; } }
+  </style>
+  <rect x="1" y="1" width="558" height="268" rx="22" fill="url(#surface)" stroke="#263449" stroke-width="2"/>
+  <rect x="1" y="1" width="558" height="6" rx="3" fill="#2563EB"/>
+  <g class="icon" transform="translate(34 29)">
+    <rect width="48" height="48" rx="14" fill="#172554" stroke="#1D4ED8"/>
+    <path d="M24 36s-12-7.2-12-15a6.5 6.5 0 0 1 12-3.5A6.5 6.5 0 0 1 36 21c0 7.8-12 15-12 15Z" fill="none" stroke="#93C5FD" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+  <text x="98" y="50" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="700">WIKSAYUQ</text>
+  <text x="98" y="75" fill="#60A5FA" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">ACOMPAÑAMIENTO PRENATAL</text>
+  <text x="34" y="119" fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="16">Aplicación móvil de seguimiento prenatal pensada</text>
+  <text x="34" y="145" fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="16">para comunidades ubicadas en zonas altoandinas.</text>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#CBD5E1">
+    <rect x="34" y="177" width="106" height="30" rx="15" fill="#172033"/><text x="87" y="197" text-anchor="middle">React Native</text>
+    <rect x="148" y="177" width="70" height="30" rx="15" fill="#172033"/><text x="183" y="197" text-anchor="middle">Expo</text>
+    <rect x="226" y="177" width="92" height="30" rx="15" fill="#172033"/><text x="272" y="197" text-anchor="middle">Supabase</text>
+  </g>
+  <line x1="34" y1="230" x2="526" y2="230" stroke="#263449"/>
+  <circle class="dot" cx="43" cy="248" r="5" fill="#22C55E"/>
+  <text x="57" y="253" fill="#94A3B8" font-family="Segoe UI,Arial,sans-serif" font-size="13">Proyecto destacado</text>
+  <text x="526" y="253" text-anchor="end" fill="#93C5FD" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">VER PROYECTO →</text>
 </svg>

@@ -11,9 +11,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: true
+
 jobs:
   generar:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
       - name: Generar archivos SVG
@@ -27,7 +32,7 @@ jobs:
       - name: Publicar en la rama output
         uses: crazy-max/ghaction-github-pages@v4
         with:
-            build_dir: dist
-            target_branch: output
+          build_dir: dist
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
