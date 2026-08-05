@@ -24,15 +24,19 @@
 
 </div>
 
-Perfil profesional
+---
 
-Soy Bachiller en Ingeniería Informática y Sistemas, con enfoque en el diseño y desarrollo de productos digitales, aplicaciones web, sistemas empresariales y experiencias de usuario modernas.
+## Perfil profesional
 
-Mi perfil integra desarrollo frontend y backend, diseño UI/UX, gestión de bases de datos, automatización, análisis de datos e inteligencia artificial. Busco transformar necesidades reales en soluciones tecnológicas claras, funcionales, escalables y visualmente consistentes.
+Soy **Bachiller en Ingeniería Informática y Sistemas**, con enfoque en el diseño y desarrollo de productos digitales, aplicaciones web, sistemas empresariales y experiencias de usuario modernas.
 
-Actualmente trabajo principalmente con React, TypeScript, Node.js, Express, PostgreSQL, Supabase, Tailwind CSS, React Native y herramientas de inteligencia artificial.
+Mi perfil integra desarrollo **frontend y backend**, diseño **UI/UX**, gestión de bases de datos, automatización, análisis de datos e inteligencia artificial. Busco transformar necesidades reales en soluciones tecnológicas claras, funcionales, escalables y visualmente consistentes.
 
-Enfoque profesional
+Actualmente trabajo principalmente con **React, TypeScript, Node.js, Express, PostgreSQL, Supabase, Tailwind CSS, React Native y herramientas de inteligencia artificial**.
+
+---
+
+## Enfoque profesional
 
 <table>
   <tr>
@@ -51,7 +55,9 @@ Enfoque profesional
   </tr>
 </table>
 
-Tecnologías principales
+---
+
+## Tecnologías principales
 
 <div align="center">
 
@@ -63,7 +69,9 @@ Tecnologías principales
 
 </div>
 
-Proyectos recientes y con mayor actividad
+---
+
+## Proyectos recientes y con mayor actividad
 
 Los proyectos aparecen ordenados considerando la actividad visible de sus repositorios públicos.
 
@@ -118,7 +126,9 @@ Los proyectos aparecen ordenados considerando la actividad visible de sus reposi
 
 </div>
 
-Experiencia técnica
+---
+
+## Experiencia técnica
 
 <table>
   <tr>
@@ -147,7 +157,9 @@ Experiencia técnica
   </tr>
 </table>
 
-Resumen de actividad en GitHub
+---
+
+## Resumen de actividad en GitHub
 
 <div align="center">
 
@@ -161,7 +173,9 @@ Resumen de actividad en GitHub
 
 </div>
 
-Gráfico de contribuciones
+---
+
+## Gráfico de contribuciones
 
 <div align="center">
 
@@ -169,7 +183,9 @@ Gráfico de contribuciones
 
 </div>
 
-Animación de contribuciones
+---
+
+## Animación de contribuciones
 
 <div align="center">
 
@@ -181,7 +197,9 @@ Animación de contribuciones
 
 </div>
 
-Contacto profesional
+---
+
+## Contacto profesional
 
 <div align="center">
 

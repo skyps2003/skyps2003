@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="270" viewBox="0 0 560 270">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0891B2"/>
+      <stop offset="100%" stop-color="#60A5FA"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="558" height="268" rx="22" fill="url(#card)" stroke="#263449" stroke-width="2"/>
+  <rect x="0" y="0" width="560" height="7" rx="4" fill="url(#bar)"/>
+  <text x="34" y="52" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">WIKSAYUQ</text>
+  <text x="34" y="82" fill="#60A5FA" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">Seguimiento prenatal para zonas altoandinas</text>
+  <text x="34" y="116" fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="17">Aplicación móvil para acompañamiento prenatal</text>
+  <text x="34" y="143" fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="17">con frontend Expo, backend Express y Supabase.</text>
+  <rect x="34" y="214" width="355" height="32" rx="16" fill="#172033"/>
+  <text x="50" y="235" fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="14">React Native · Expo · Node.js · Supabase</text>
+  <rect x="414" y="214" width="112" height="32" rx="16" fill="#172554"/>
+  <text x="470" y="235" text-anchor="middle" fill="#DBEAFE" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="650">40 commits</text>
+</svg>
