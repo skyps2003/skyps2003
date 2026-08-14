@@ -8,24 +8,17 @@
     </linearGradient>
   </defs>
   <style>
-    .mark { animation: enter .55s ease-out both; transform-box: fill-box; transform-origin: center; }
     .detail { animation: enter .45s .18s ease-out both; transform-box: fill-box; transform-origin: center; }
     @keyframes enter { from { opacity: 0; transform: translateY(6px) scale(.96); } to { opacity: 1; transform: translateY(0) scale(1); } }
-    @media (prefers-reduced-motion: reduce) { .mark, .detail { animation: none; } }
+    @media (prefers-reduced-motion: reduce) { .detail { animation: none; } }
   </style>
 
   <rect x="1" y="1" width="758" height="298" rx="24" fill="url(#surface)" stroke="#263449" stroke-width="2"/>
   <rect x="1" y="1" width="758" height="7" rx="3.5" fill="#2563EB"/>
   <circle cx="675" cy="42" r="92" fill="#1D4ED8" opacity=".08"/>
 
-  <g class="mark" transform="translate(38 35)">
-    <rect width="72" height="72" rx="18" fill="#172033" stroke="#334155"/>
-    <path d="M17 54h38M22 54V31l14-10 14 10v23M29 54V39h14v15M36 21V13" fill="none" stroke="#60A5FA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="36" cy="12" r="3" fill="#F59E0B"/>
-  </g>
-
-  <text x="132" y="63" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700">Portal Corporativo JJJA</text>
-  <text x="132" y="90" fill="#60A5FA" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">CORPORATE EXPERIENCE · BRAND · SERVICES</text>
+  <text x="38" y="63" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700">Portal Corporativo JJJA</text>
+  <text x="38" y="90" fill="#60A5FA" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">CORPORATE EXPERIENCE · BRAND · SERVICES</text>
 
   <text x="38" y="142" fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="17">Sitio corporativo responsivo con catálogo de servicios, equipo,</text>
   <text x="38" y="169" fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="17">brochure, mapas interactivos y narrativa visual con movimiento.</text>

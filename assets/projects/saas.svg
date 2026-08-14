@@ -2,20 +2,14 @@
   <title id="title">SaaS Multieventos</title><desc id="desc">Tarjeta de la plataforma de administración y punto de venta para eventos.</desc>
   <defs><linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#111827"/></linearGradient></defs>
   <style>
-    .icon { animation: enter .55s ease-out both; transform-box: fill-box; transform-origin: center; }
     .dot { animation: enter .45s .2s ease-out both; transform-box: fill-box; transform-origin: center; }
     @keyframes enter { from { opacity: 0; transform: translateY(6px) scale(.96); } to { opacity: 1; transform: translateY(0) scale(1); } }
-    @media (prefers-reduced-motion: reduce) { .icon,.dot { animation: none; } }
+    @media (prefers-reduced-motion: reduce) { .dot { animation: none; } }
   </style>
   <rect x="1" y="1" width="558" height="268" rx="22" fill="url(#surface)" stroke="#263449" stroke-width="2"/>
   <rect x="1" y="1" width="558" height="6" rx="3" fill="#2563EB"/>
-  <g class="icon" transform="translate(34 29)">
-    <rect width="48" height="48" rx="14" fill="#172554" stroke="#1D4ED8"/>
-    <path d="M13 18h22l-2 18H15l-2-18Zm5 0v-3a6 6 0 0 1 12 0v3" fill="none" stroke="#93C5FD" stroke-width="2" stroke-linejoin="round"/>
-    <path d="M20 25h8" stroke="#93C5FD" stroke-width="2" stroke-linecap="round"/>
-  </g>
-  <text x="98" y="50" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="700">SaaS Multieventos</text>
-  <text x="98" y="75" fill="#60A5FA" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">ADMINISTRACIÓN Y PUNTO DE VENTA</text>
+  <text x="34" y="50" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="700">SaaS Multieventos</text>
+  <text x="34" y="75" fill="#60A5FA" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">ADMINISTRACIÓN Y PUNTO DE VENTA</text>
   <text x="34" y="119" fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="16">Panel administrativo, inventario, reportes y una</text>
   <text x="34" y="145" fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="16">interfaz POS optimizada para operaciones de caja.</text>
   <g font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#CBD5E1">

@@ -2,19 +2,14 @@
   <title id="title">WIKSAYUQ</title><desc id="desc">Tarjeta de la aplicación móvil de acompañamiento prenatal.</desc>
   <defs><linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#111827"/></linearGradient></defs>
   <style>
-    .icon { animation: enter .55s ease-out both; transform-box: fill-box; transform-origin: center; }
     .dot { animation: enter .45s .2s ease-out both; transform-box: fill-box; transform-origin: center; }
     @keyframes enter { from { opacity: 0; transform: translateY(6px) scale(.96); } to { opacity: 1; transform: translateY(0) scale(1); } }
-    @media (prefers-reduced-motion: reduce) { .icon,.dot { animation: none; } }
+    @media (prefers-reduced-motion: reduce) { .dot { animation: none; } }
   </style>
   <rect x="1" y="1" width="558" height="268" rx="22" fill="url(#surface)" stroke="#263449" stroke-width="2"/>
   <rect x="1" y="1" width="558" height="6" rx="3" fill="#2563EB"/>
-  <g class="icon" transform="translate(34 29)">
-    <rect width="48" height="48" rx="14" fill="#172554" stroke="#1D4ED8"/>
-    <path d="M24 36s-12-7.2-12-15a6.5 6.5 0 0 1 12-3.5A6.5 6.5 0 0 1 36 21c0 7.8-12 15-12 15Z" fill="none" stroke="#93C5FD" stroke-width="2" stroke-linejoin="round"/>
-  </g>
-  <text x="98" y="50" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="700">WIKSAYUQ</text>
-  <text x="98" y="75" fill="#60A5FA" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">ACOMPAÑAMIENTO PRENATAL</text>
+  <text x="34" y="50" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="700">WIKSAYUQ</text>
+  <text x="34" y="75" fill="#60A5FA" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">ACOMPAÑAMIENTO PRENATAL</text>
   <text x="34" y="119" fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="16">Aplicación móvil de seguimiento prenatal pensada</text>
   <text x="34" y="145" fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="16">para comunidades ubicadas en zonas altoandinas.</text>
   <g font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#CBD5E1">

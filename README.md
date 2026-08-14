@@ -9,6 +9,10 @@
 
 <br/>
 
+<img src="https://komarev.com/ghpvc/?username=Terateniente&label=Profile+views&color=2563EB&style=flat-square" alt="Terateniente profile view counter" />
+
+<br/><br/>
+
 <a href="mailto:211181@unamba.edu.pe"><img src="https://img.shields.io/badge/Email-Contact_me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email to Luis Loayza" /></a>
 <a href="https://www.linkedin.com/in/luis-loayza-4b79a6276/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Luis Loayza on LinkedIn" /></a>
 <a href="https://github.com/Terateniente?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repositories by Terateniente" /></a>
