@@ -41,6 +41,16 @@ My work spans **frontend, backend, product design, real-time systems, and artifi
 
 <table>
   <tr>
+    <td colspan="2" align="center" valign="top">
+      <a href="https://jjja-interoceanica.vercel.app/"><img width="72%" src="./assets/projects/portal.svg" alt="Corporate portal for Corporación Interoceánica JJJA" /></a>
+      <h3>Corporación Interoceánica JJJA — Corporate Portal</h3>
+      <p>A responsive corporate experience with service showcases, an interactive map, team presentation, downloadable brochure, and motion-led storytelling.</p>
+      <p><code>React 19</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Motion</code> <code>Leaflet</code></p>
+      <a href="https://github.com/Terateniente/Portal_Corporativo_JJJA"><img src="https://img.shields.io/badge/Private_repository-334155?style=flat-square&logo=github&logoColor=white" alt="Open the private Portal Corporativo JJJA repository" /></a>
+      <a href="https://jjja-interoceanica.vercel.app/"><img src="https://img.shields.io/badge/Live_demo-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Open the Corporación Interoceánica JJJA website" /></a>
+    </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <h3>⚙️ Product Engineering</h3>
       <p>Web and mobile products, admin platforms, authentication, permissions, REST APIs, and business workflows.</p>
@@ -92,7 +102,6 @@ My work spans **frontend, backend, product design, real-time systems, and artifi
       <p>Multi-branch financial operations with role-based access, transactions, auditable closings, dashboards, and reports.</p>
       <p><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Tailwind</code></p>
       <a href="https://github.com/Terateniente/Caja-El-Asesor"><img src="https://img.shields.io/badge/Code-2563EB?style=flat-square&logo=github&logoColor=white" alt="View the financial platform repository" /></a>
-      <a href="https://caja-el-asesor.vercel.app"><img src="https://img.shields.io/badge/Live_demo-111827?style=flat-square&logo=vercel&logoColor=white" alt="Open the financial platform demo" /></a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Terateniente/CHAT-Sockeio"><img width="100%" src="./assets/projects/chat.svg" alt="Real-time chat and video calls" /></a>

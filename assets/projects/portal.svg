@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="300" viewBox="0 0 760 300" role="img" aria-labelledby="title desc">
+  <title id="title">Corporación Interoceánica JJJA — Portal Corporativo</title>
+  <desc id="desc">Tarjeta del portal corporativo responsivo de Corporación Interoceánica JJJA.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .mark { animation: enter .55s ease-out both; transform-box: fill-box; transform-origin: center; }
+    .detail { animation: enter .45s .18s ease-out both; transform-box: fill-box; transform-origin: center; }
+    @keyframes enter { from { opacity: 0; transform: translateY(6px) scale(.96); } to { opacity: 1; transform: translateY(0) scale(1); } }
+    @media (prefers-reduced-motion: reduce) { .mark, .detail { animation: none; } }
+  </style>
+
+  <rect x="1" y="1" width="758" height="298" rx="24" fill="url(#surface)" stroke="#263449" stroke-width="2"/>
+  <rect x="1" y="1" width="758" height="7" rx="3.5" fill="#2563EB"/>
+  <circle cx="675" cy="42" r="92" fill="#1D4ED8" opacity=".08"/>
+
+  <g class="mark" transform="translate(38 35)">
+    <rect width="72" height="72" rx="18" fill="#172033" stroke="#334155"/>
+    <path d="M17 54h38M22 54V31l14-10 14 10v23M29 54V39h14v15M36 21V13" fill="none" stroke="#60A5FA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="36" cy="12" r="3" fill="#F59E0B"/>
+  </g>
+
+  <text x="132" y="63" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700">Portal Corporativo JJJA</text>
+  <text x="132" y="90" fill="#60A5FA" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">CORPORATE EXPERIENCE · BRAND · SERVICES</text>
+
+  <text x="38" y="142" fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="17">Sitio corporativo responsivo con catálogo de servicios, equipo,</text>
+  <text x="38" y="169" fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="17">brochure, mapas interactivos y narrativa visual con movimiento.</text>
+
+  <g class="detail" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#CBD5E1">
+    <rect x="38" y="199" width="82" height="32" rx="16" fill="#172033"/><text x="79" y="220" text-anchor="middle">React 19</text>
+    <rect x="130" y="199" width="66" height="32" rx="16" fill="#172033"/><text x="163" y="220" text-anchor="middle">Vite</text>
+    <rect x="206" y="199" width="96" height="32" rx="16" fill="#172033"/><text x="254" y="220" text-anchor="middle">Tailwind</text>
+    <rect x="312" y="199" width="82" height="32" rx="16" fill="#172033"/><text x="353" y="220" text-anchor="middle">Motion</text>
+    <rect x="404" y="199" width="82" height="32" rx="16" fill="#172033"/><text x="445" y="220" text-anchor="middle">Leaflet</text>
+  </g>
+
+  <line x1="38" y1="258" x2="722" y2="258" stroke="#263449"/>
+  <circle cx="47" cy="278" r="5" fill="#22C55E"/>
+  <text x="61" y="283" fill="#94A3B8" font-family="Segoe UI,Arial,sans-serif" font-size="13">Proyecto publicado</text>
+  <text x="722" y="283" text-anchor="end" fill="#93C5FD" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">VER DEMO →</text>
+</svg>
