@@ -17,39 +17,21 @@
 
 ---
 
-## `01.` Sobre mí
+## Sobre mí
 
-```ts
-const luis = {
-  rol: "Ingeniero de Software",
-  enfoque: ["Full-Stack", "Product Engineering", "UI/UX", "IA"],
-  construyendo: "Productos digitales confiables que resuelven problemas reales",
-  ubicación: "Apurímac, Perú",
-  disponiblePara: ["Roles de software", "Proyectos freelance", "Colaboraciones"]
-};
-```
+Soy **Luis Loayza**, ingeniero de software peruano enfocado en convertir operaciones complejas en productos digitales claros y confiables.
 
-Soy bachiller en **Ingeniería Informática y Sistemas**. Construyo productos digitales de principio a fin: desde interfaces claras y reglas de negocio sólidas hasta API, datos y despliegue.
+Trabajo en todo el ciclo del producto: comprender el problema, definir la experiencia, diseñar la arquitectura, construir frontend y backend, y llevar el resultado a producción. Mis proyectos incluyen **plataformas financieras, productos SaaS, comunicación en tiempo real, tecnología para salud y experiencias potenciadas con IA**.
 
-Mi trabajo abarca **frontend, backend, diseño de producto, sistemas en tiempo real e inteligencia artificial**. Disfruto convertir procesos complejos en software fácil de usar, mantener y evolucionar.
+Me importa crear software sencillo de usar, comprensible mientras crece y capaz de generar valor más allá del código.
 
-> **Actualmente:** construyendo plataformas financieras, productos SaaS y experiencias enfocadas en confiabilidad, rendimiento y usabilidad.
+> **Construyendo ahora:** productos listos para producción con UX cuidada, lógica de negocio sólida y arquitectura mantenible.
 
 ---
 
-## `02.` Capacidades de ingeniería
+## Capacidades de ingeniería
 
 <table>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <a href="https://jjja-interoceanica.vercel.app/"><img width="72%" src="./assets/projects/portal.svg" alt="Portal corporativo de Corporación Interoceánica JJJA" /></a>
-      <h3>Corporación Interoceánica JJJA — Portal Corporativo</h3>
-      <p>Experiencia corporativa responsiva con presentación de servicios, mapa interactivo, equipo, brochure descargable y narrativa visual con animaciones.</p>
-      <p><code>React 19</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Motion</code> <code>Leaflet</code></p>
-      <a href="https://github.com/Terateniente/Portal_Corporativo_JJJA"><img src="https://img.shields.io/badge/Repositorio_privado-334155?style=flat-square&logo=github&logoColor=white" alt="Abrir el repositorio privado de Portal Corporativo JJJA" /></a>
-      <a href="https://jjja-interoceanica.vercel.app/"><img src="https://img.shields.io/badge/Ver_demo-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Abrir el sitio de Corporación Interoceánica JJJA" /></a>
-    </td>
-  </tr>
   <tr>
     <td width="33%" valign="top">
       <h3>⚙️ Product Engineering</h3>
@@ -68,7 +50,7 @@ Mi trabajo abarca **frontend, backend, diseño de producto, sistemas en tiempo r
 
 ---
 
-## `03.` Stack de ingeniería
+## Stack de ingeniería
 
 <div align="center">
 
@@ -92,9 +74,19 @@ Mi trabajo abarca **frontend, backend, diseño de producto, sistemas en tiempo r
 
 ---
 
-## `04.` Proyectos destacados
+## Proyectos destacados
 
 <table>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <a href="https://jjja-interoceanica.vercel.app/"><img width="72%" src="./assets/projects/portal.svg" alt="Portal corporativo de Corporación Interoceánica JJJA" /></a>
+      <h3>Corporación Interoceánica JJJA — Portal Corporativo</h3>
+      <p>Experiencia corporativa responsiva con presentación de servicios, mapa interactivo, equipo, brochure descargable y narrativa visual con animaciones.</p>
+      <p><code>React 19</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Motion</code> <code>Leaflet</code></p>
+      <img src="https://img.shields.io/badge/Código-privado-334155?style=flat-square&logo=github&logoColor=white" alt="Código fuente privado" />
+      <a href="https://jjja-interoceanica.vercel.app/"><img src="https://img.shields.io/badge/Visitar_sitio-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Abrir el sitio de Corporación Interoceánica JJJA" /></a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Terateniente/Caja-El-Asesor"><img width="100%" src="./assets/projects/cajas.svg" alt="Plataforma de gestión financiera" /></a>
@@ -135,7 +127,7 @@ Mi trabajo abarca **frontend, backend, diseño de producto, sistemas en tiempo r
 
 ---
 
-## `05.` Actividad en GitHub
+## Actividad en GitHub
 
 <div align="center">
 
@@ -157,7 +149,7 @@ Mi trabajo abarca **frontend, backend, diseño de producto, sistemas en tiempo r
 
 ---
 
-## `06.` Construyamos algo con impacto
+## Construyamos algo con impacto
 
 <div align="center">
 

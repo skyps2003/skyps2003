@@ -17,39 +17,21 @@
 
 ---
 
-## `01.` About me
+## About me
 
-```ts
-const luis = {
-  role: "Software Engineer",
-  focus: ["Full-Stack", "Product Engineering", "UI/UX", "AI"],
-  building: "Reliable digital products that solve real problems",
-  location: "Apurímac, Peru",
-  openTo: ["Software roles", "Freelance projects", "Collaborations"]
-};
-```
+I'm **Luis Loayza**, a software engineer from Peru who turns complex operations into clear, reliable digital products.
 
-I hold a bachelor's degree in **Computer Science and Systems Engineering**. I build digital products end to end—from clear interfaces and solid business rules to APIs, data, and deployment.
+I work across the entire product lifecycle: understanding the problem, shaping the user experience, designing the architecture, building the frontend and backend, and shipping the result. My projects include **financial platforms, SaaS products, real-time communication, health technology, and AI-powered experiences**.
 
-My work spans **frontend, backend, product design, real-time systems, and artificial intelligence**. I enjoy turning complex processes into software that is easy to use, maintain, and evolve.
+I care about software that feels simple to use, stays understandable as it grows, and creates measurable value beyond the code.
 
-> **Currently:** building financial platforms, SaaS products, and experiences focused on reliability, performance, and usability.
+> **Now building:** production-ready products with thoughtful UX, solid business logic, and maintainable architecture.
 
 ---
 
-## `02.` Engineering strengths
+## Engineering strengths
 
 <table>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <a href="https://jjja-interoceanica.vercel.app/"><img width="72%" src="./assets/projects/portal.svg" alt="Corporate portal for Corporación Interoceánica JJJA" /></a>
-      <h3>Corporación Interoceánica JJJA — Corporate Portal</h3>
-      <p>A responsive corporate experience with service showcases, an interactive map, team presentation, downloadable brochure, and motion-led storytelling.</p>
-      <p><code>React 19</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Motion</code> <code>Leaflet</code></p>
-      <a href="https://github.com/Terateniente/Portal_Corporativo_JJJA"><img src="https://img.shields.io/badge/Private_repository-334155?style=flat-square&logo=github&logoColor=white" alt="Open the private Portal Corporativo JJJA repository" /></a>
-      <a href="https://jjja-interoceanica.vercel.app/"><img src="https://img.shields.io/badge/Live_demo-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Open the Corporación Interoceánica JJJA website" /></a>
-    </td>
-  </tr>
   <tr>
     <td width="33%" valign="top">
       <h3>⚙️ Product Engineering</h3>
@@ -68,7 +50,7 @@ My work spans **frontend, backend, product design, real-time systems, and artifi
 
 ---
 
-## `03.` Engineering stack
+## Engineering stack
 
 <div align="center">
 
@@ -92,9 +74,19 @@ My work spans **frontend, backend, product design, real-time systems, and artifi
 
 ---
 
-## `04.` Selected projects
+## Selected work
 
 <table>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <a href="https://jjja-interoceanica.vercel.app/"><img width="72%" src="./assets/projects/portal.svg" alt="Corporate portal for Corporación Interoceánica JJJA" /></a>
+      <h3>Corporación Interoceánica JJJA — Corporate Portal</h3>
+      <p>A responsive corporate experience with service showcases, an interactive map, team presentation, downloadable brochure, and motion-led storytelling.</p>
+      <p><code>React 19</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Motion</code> <code>Leaflet</code></p>
+      <img src="https://img.shields.io/badge/Source-private-334155?style=flat-square&logo=github&logoColor=white" alt="Private source repository" />
+      <a href="https://jjja-interoceanica.vercel.app/"><img src="https://img.shields.io/badge/Visit_live_site-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Open the Corporación Interoceánica JJJA website" /></a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Terateniente/Caja-El-Asesor"><img width="100%" src="./assets/projects/cajas.svg" alt="Financial management platform" /></a>
@@ -135,7 +127,7 @@ My work spans **frontend, backend, product design, real-time systems, and artifi
 
 ---
 
-## `05.` GitHub activity
+## GitHub activity
 
 <div align="center">
 
@@ -157,7 +149,7 @@ My work spans **frontend, backend, product design, real-time systems, and artifi
 
 ---
 
-## `06.` Let's build something meaningful
+## Let's build something meaningful
 
 <div align="center">
 
