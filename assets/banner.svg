@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
-  <title id="title">Luis Loayza — Fullstack Developer</title>
+  <title id="title">Luis Loayza — Full-stack Developer</title>
   <desc id="description">Portada animada del perfil profesional de Luis Loayza con su avatar, especializado en producto, interfaces y tecnología.</desc>
   <defs>
     <linearGradient id="background" x1="40" y1="10" x2="1160" y2="350" gradientUnits="userSpaceOnUse">
@@ -46,7 +46,7 @@
 
     <text x="224" y="105" fill="#60A5FA" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">HOLA, SOY</text>
     <text x="224" y="160" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="56" font-weight="700">Luis Loayza</text>
-    <text x="224" y="205" fill="#BFDBFE" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="600">Fullstack Developer · UI/UX · Data &amp; IA</text>
+    <text x="224" y="205" fill="#BFDBFE" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="600">Full-stack Developer · UI/UX · Datos e IA</text>
     <text x="224" y="244" fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="18">Convierto ideas complejas en productos digitales claros y funcionales.</text>
     <rect class="line" x="224" y="270" width="430" height="2" rx="1" fill="url(#line)"/>
     <text x="224" y="305" fill="#94A3B8" font-family="Segoe UI,Arial,sans-serif" font-size="16">React  /  TypeScript  /  Node.js  /  PostgreSQL</text>

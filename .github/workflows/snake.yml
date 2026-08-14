@@ -22,7 +22,8 @@ jobs:
 
     steps:
       - name: Generar archivos SVG
-        uses: Platane/snk/svg-only@v3
+        # v3, fijado por SHA para evitar cambios inesperados en la dependencia.
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -30,7 +31,8 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Publicar en la rama output
-        uses: crazy-max/ghaction-github-pages@v4
+        # v4, fijado por SHA para evitar cambios inesperados en la dependencia.
+        uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865
         with:
           build_dir: dist
           target_branch: output
