@@ -2,9 +2,9 @@
   <title id="title">SaaS Multieventos</title><desc id="desc">Tarjeta de la plataforma de administración y punto de venta para eventos.</desc>
   <defs><linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#111827"/></linearGradient></defs>
   <style>
-    .icon { animation: float 3.1s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: center; }
-    .dot { animation: pulse 2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
-    @keyframes float { to { transform: translateY(-4px); } } @keyframes pulse { 50% { opacity: .45; transform: scale(.8); } }
+    .icon { animation: enter .55s ease-out both; transform-box: fill-box; transform-origin: center; }
+    .dot { animation: enter .45s .2s ease-out both; transform-box: fill-box; transform-origin: center; }
+    @keyframes enter { from { opacity: 0; transform: translateY(6px) scale(.96); } to { opacity: 1; transform: translateY(0) scale(1); } }
     @media (prefers-reduced-motion: reduce) { .icon,.dot { animation: none; } }
   </style>
   <rect x="1" y="1" width="558" height="268" rx="22" fill="url(#surface)" stroke="#263449" stroke-width="2"/>

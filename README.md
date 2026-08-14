@@ -1,121 +1,166 @@
 <div align="center">
 
-<img width="100%" src="./assets/banner.svg" alt="Luis Loayza, desarrollador full-stack especializado en productos digitales"/>
+<img width="100%" src="./assets/banner.svg" alt="Luis Loayza — Software Engineer and product builder" />
 
 <br/>
 
-<a href="mailto:211181@unamba.edu.pe"><img src="https://img.shields.io/badge/Contacto-211181%40unamba.edu.pe-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar un correo a Luis Loayza"/></a>
-<a href="https://www.linkedin.com/in/luis-loayza-4b79a6276/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil de Luis Loayza en LinkedIn"/></a>
-<a href="https://github.com/Terateniente?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Ver_proyectos-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios de Terateniente en GitHub"/></a>
+[![English](https://img.shields.io/badge/English-2563EB?style=flat-square)](./README.md)
+[![Español](https://img.shields.io/badge/Español-334155?style=flat-square)](./README.es.md)
+
+<br/>
+
+<a href="mailto:211181@unamba.edu.pe"><img src="https://img.shields.io/badge/Email-Contact_me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email to Luis Loayza" /></a>
+<a href="https://www.linkedin.com/in/luis-loayza-4b79a6276/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Luis Loayza on LinkedIn" /></a>
+<a href="https://github.com/Terateniente?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repositories by Terateniente" /></a>
 
 </div>
 
-## Hola, soy Luis
+---
 
-Soy bachiller en **Ingeniería Informática y Sistemas** y desarrollador full-stack. Construyo productos digitales de principio a fin: desde la experiencia de usuario y la interfaz hasta las API, los datos y el despliegue.
+## `01.` About me
 
-Me interesa resolver problemas reales con software claro, mantenible y preparado para crecer. He trabajado en plataformas administrativas, aplicaciones móviles, sistemas en tiempo real y soluciones que integran inteligencia artificial.
+```ts
+const luis = {
+  role: "Software Engineer",
+  focus: ["Full-Stack", "Product Engineering", "UI/UX", "AI"],
+  building: "Reliable digital products that solve real problems",
+  location: "Apurímac, Peru",
+  openTo: ["Software roles", "Freelance projects", "Collaborations"]
+};
+```
 
-> Estoy disponible para colaborar en productos de software y nuevas oportunidades profesionales.
+I hold a bachelor's degree in **Computer Science and Systems Engineering**. I build digital products end to end—from clear interfaces and solid business rules to APIs, data, and deployment.
 
-## Lo que hago
+My work spans **frontend, backend, product design, real-time systems, and artificial intelligence**. I enjoy turning complex processes into software that is easy to use, maintain, and evolve.
+
+> **Currently:** building financial platforms, SaaS products, and experiences focused on reliability, performance, and usability.
+
+---
+
+## `02.` Engineering strengths
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Producto full-stack</h3>
-      <p>Aplicaciones web y móviles, API REST, autenticación, permisos y lógica de negocio.</p>
+      <h3>⚙️ Product Engineering</h3>
+      <p>Web and mobile products, admin platforms, authentication, permissions, REST APIs, and business workflows.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Experiencia de usuario</h3>
-      <p>Interfaces responsivas, accesibles y consistentes, creadas alrededor de tareas reales.</p>
+      <h3>✦ UI/UX Engineering</h3>
+      <p>Responsive interfaces, accessible patterns, design systems, data visualization, and reusable components.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Datos e IA</h3>
-      <p>Automatización, procesamiento de información e integración de servicios inteligentes.</p>
+      <h3>⌁ Data & AI</h3>
+      <p>Automation, information processing, computer vision, and integration of intelligent services.</p>
     </td>
   </tr>
 </table>
 
-## Tecnologías
+---
+
+## `03.` Engineering stack
 
 <div align="center">
 
-**Frontend y móvil**
+**Frontend & Product**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,vite,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Angular, Next.js, Vite y Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=ts,js,react,angular,nextjs,vite,tailwind,html,css,figma&theme=dark&perline=10" alt="TypeScript, JavaScript, React, Angular, Next.js, Vite, Tailwind CSS, HTML, CSS, and Figma" />
 
-<br/><br/>
+<br/>
 
-**Backend, datos y herramientas**
+**Backend & Data**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,postgresql,mongodb,supabase,docker,git,github,vercel,figma&theme=dark" alt="Node.js, Express, Python, Java, PHP, PostgreSQL, MongoDB, Supabase, Docker, Git, GitHub, Vercel y Figma"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,python,php,postgresql,mongodb,supabase&theme=dark&perline=8" alt="Node.js, Express, Java, Python, PHP, PostgreSQL, MongoDB, and Supabase" />
+
+<br/>
+
+**Cloud & Tooling**
+
+<img src="https://skillicons.dev/icons?i=docker,vercel,git,github,vscode,postman,linux&theme=dark&perline=7" alt="Docker, Vercel, Git, GitHub, Visual Studio Code, Postman, and Linux" />
 
 </div>
 
-## Proyectos destacados
+---
+
+## `04.` Selected projects
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Terateniente/Caja-El-Asesor"><img width="100%" src="./assets/projects/cajas.svg" alt="Sistema financiero corporativo"/></a>
-      <br/>
-      <a href="https://github.com/Terateniente/Caja-El-Asesor"><img src="https://img.shields.io/badge/Código-2563EB?style=flat-square&logo=github&logoColor=white" alt="Abrir el repositorio de Caja El Asesor"/></a>
-      <a href="https://caja-el-asesor.vercel.app"><img src="https://img.shields.io/badge/Demo-111827?style=flat-square&logo=vercel&logoColor=white" alt="Ver la demostración de Caja El Asesor"/></a>
-      <img src="https://img.shields.io/github/last-commit/Terateniente/Caja-El-Asesor?style=flat-square&label=Actualizado&color=334155" alt="Última actualización de Caja El Asesor"/>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Terateniente/Caja-El-Asesor"><img width="100%" src="./assets/projects/cajas.svg" alt="Financial management platform" /></a>
+      <h3>Financial Management Platform</h3>
+      <p>Multi-branch financial operations with role-based access, transactions, auditable closings, dashboards, and reports.</p>
+      <p><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Tailwind</code></p>
+      <a href="https://github.com/Terateniente/Caja-El-Asesor"><img src="https://img.shields.io/badge/Code-2563EB?style=flat-square&logo=github&logoColor=white" alt="View the financial platform repository" /></a>
+      <a href="https://caja-el-asesor.vercel.app"><img src="https://img.shields.io/badge/Live_demo-111827?style=flat-square&logo=vercel&logoColor=white" alt="Open the financial platform demo" /></a>
     </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Terateniente/CHAT-Sockeio"><img width="100%" src="./assets/projects/chat.svg" alt="Chat y videollamadas con inteligencia artificial"/></a>
-      <br/>
-      <a href="https://github.com/Terateniente/CHAT-Sockeio"><img src="https://img.shields.io/badge/Código-2563EB?style=flat-square&logo=github&logoColor=white" alt="Abrir el repositorio de Chat Sockeio"/></a>
-      <img src="https://img.shields.io/github/last-commit/Terateniente/CHAT-Sockeio?style=flat-square&label=Actualizado&color=334155" alt="Última actualización de Chat Sockeio"/>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Terateniente/CHAT-Sockeio"><img width="100%" src="./assets/projects/chat.svg" alt="Real-time chat and video calls" /></a>
+      <h3>CHAT Sockeio</h3>
+      <p>Real-time messaging, voice notes, file sharing, video calls, online presence, and an integrated AI assistant.</p>
+      <p><code>React</code> <code>Node.js</code> <code>Socket.IO</code> <code>WebRTC</code></p>
+      <a href="https://github.com/Terateniente/CHAT-Sockeio"><img src="https://img.shields.io/badge/Code-2563EB?style=flat-square&logo=github&logoColor=white" alt="View CHAT Sockeio" /></a>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Terateniente/WIKSAYUQ"><img width="100%" src="./assets/projects/wiksayuq.svg" alt="WIKSAYUQ, aplicación de seguimiento prenatal"/></a>
-      <br/>
-      <a href="https://github.com/Terateniente/WIKSAYUQ"><img src="https://img.shields.io/badge/Código-2563EB?style=flat-square&logo=github&logoColor=white" alt="Abrir el repositorio de WIKSAYUQ"/></a>
-      <img src="https://img.shields.io/github/last-commit/Terateniente/WIKSAYUQ?style=flat-square&label=Actualizado&color=334155" alt="Última actualización de WIKSAYUQ"/>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Terateniente/WIKSAYUQ"><img width="100%" src="./assets/projects/wiksayuq.svg" alt="WIKSAYUQ prenatal care application" /></a>
+      <h3>WIKSAYUQ</h3>
+      <p>A mobile product for prenatal monitoring and patient support, designed for communities in the Peruvian highlands.</p>
+      <p><code>React Native</code> <code>Expo</code> <code>TypeScript</code> <code>Supabase</code></p>
+      <a href="https://github.com/Terateniente/WIKSAYUQ"><img src="https://img.shields.io/badge/Code-2563EB?style=flat-square&logo=github&logoColor=white" alt="View WIKSAYUQ" /></a>
     </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Terateniente/SAAS_MULTIEVENTOS"><img width="100%" src="./assets/projects/saas.svg" alt="SaaS Multieventos para administración y punto de venta"/></a>
-      <br/>
-      <a href="https://github.com/Terateniente/SAAS_MULTIEVENTOS"><img src="https://img.shields.io/badge/Código-2563EB?style=flat-square&logo=github&logoColor=white" alt="Abrir el repositorio de SaaS Multieventos"/></a>
-      <img src="https://img.shields.io/github/last-commit/Terateniente/SAAS_MULTIEVENTOS?style=flat-square&label=Actualizado&color=334155" alt="Última actualización de SaaS Multieventos"/>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Terateniente/SAAS_MULTIEVENTOS"><img width="100%" src="./assets/projects/saas.svg" alt="SaaS Multieventos" /></a>
+      <h3>SaaS Multieventos</h3>
+      <p>A SaaS platform that connects event administration, inventory, reporting, and point-of-sale workflows.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Supabase</code></p>
+      <a href="https://github.com/Terateniente/SAAS_MULTIEVENTOS"><img src="https://img.shields.io/badge/Code-2563EB?style=flat-square&logo=github&logoColor=white" alt="View SaaS Multieventos" /></a>
     </td>
   </tr>
 </table>
 
 <div align="center">
-
-<a href="https://github.com/Terateniente?tab=repositories"><img src="https://img.shields.io/badge/Explorar_todos_los_repositorios-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Explorar todos los repositorios de Terateniente"/></a>
-
+  <a href="https://github.com/Terateniente?tab=repositories"><img src="https://img.shields.io/badge/Explore_all_projects-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" /></a>
 </div>
 
-## Actividad en GitHub
+---
+
+## `05.` GitHub activity
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Terateniente/Terateniente/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Terateniente/Terateniente/output/github-snake.svg"/>
-  <img alt="Calendario de contribuciones de Terateniente" src="https://raw.githubusercontent.com/Terateniente/Terateniente/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Terateniente&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Terateniente&theme=github" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Terateniente&theme=github_dark" alt="GitHub profile summary for Terateniente" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Terateniente/Terateniente/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Terateniente/Terateniente/output/github-snake.svg" />
+  <img alt="Animated contribution calendar for Terateniente" src="https://raw.githubusercontent.com/Terateniente/Terateniente/output/github-snake.svg" />
 </picture>
 
 </div>
 
-## ¿Construimos algo juntos?
+---
 
-Si buscas apoyo para crear un producto digital, mejorar una experiencia o integrar nuevas tecnologías, conversemos.
+## `06.` Let's build something meaningful
 
 <div align="center">
 
-<a href="mailto:211181@unamba.edu.pe"><img src="https://img.shields.io/badge/Enviar_un_correo-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar un correo a Luis Loayza"/></a>
-<a href="https://www.linkedin.com/in/luis-loayza-4b79a6276/"><img src="https://img.shields.io/badge/Hablar_por_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contactar a Luis Loayza por LinkedIn"/></a>
+If you need to build a digital product, improve an experience, or turn a complex process into maintainable software, let's talk.
 
 <br/><br/>
 
-<sub>Diseñado y construido con intención por Luis Loayza.</sub>
+<a href="mailto:211181@unamba.edu.pe"><img src="https://img.shields.io/badge/Send_an_email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
+<a href="https://www.linkedin.com/in/luis-loayza-4b79a6276/"><img src="https://img.shields.io/badge/Talk_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contact on LinkedIn" /></a>
+
+<br/><br/>
+
+<sub><strong>Designed and built with intention by Luis Loayza.</strong></sub>
 
 </div>
