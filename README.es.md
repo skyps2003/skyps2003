@@ -83,7 +83,7 @@ Me importa crear software sencillo de usar, comprensible mientras crece y capaz 
 <table>
   <tr>
     <td colspan="2" align="center" valign="top">
-      <a href="https://jjja-interoceanica.vercel.app/"><img width="72%" src="./assets/projects/portal.svg" alt="Portal corporativo de Corporación Interoceánica JJJA" /></a>
+      <a href="https://jjja-interoceanica.vercel.app/"><img width="72%" src="./assets/projects/portal-clean.svg" alt="Portal corporativo de Corporación Interoceánica JJJA" /></a>
       <h3>Corporación Interoceánica JJJA — Portal Corporativo</h3>
       <p>Experiencia corporativa responsiva con presentación de servicios, mapa interactivo, equipo, brochure descargable y narrativa visual con animaciones.</p>
       <p><code>React 19</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Motion</code> <code>Leaflet</code></p>
@@ -93,14 +93,14 @@ Me importa crear software sencillo de usar, comprensible mientras crece y capaz 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Terateniente/Caja-El-Asesor"><img width="100%" src="./assets/projects/cajas.svg" alt="Plataforma de gestión financiera" /></a>
+      <a href="https://github.com/Terateniente/Caja-El-Asesor"><img width="100%" src="./assets/projects/cajas-clean.svg" alt="Plataforma de gestión financiera" /></a>
       <h3>Plataforma de Gestión Financiera</h3>
       <p>Operación financiera multi-sede con permisos por rol, movimientos, cierres auditables, paneles y reportes.</p>
       <p><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Tailwind</code></p>
       <a href="https://github.com/Terateniente/Caja-El-Asesor"><img src="https://img.shields.io/badge/Código-2563EB?style=flat-square&logo=github&logoColor=white" alt="Ver el repositorio de la plataforma financiera" /></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Terateniente/CHAT-Sockeio"><img width="100%" src="./assets/projects/chat.svg" alt="Chat y videollamadas en tiempo real" /></a>
+      <a href="https://github.com/Terateniente/CHAT-Sockeio"><img width="100%" src="./assets/projects/chat-clean.svg" alt="Chat y videollamadas en tiempo real" /></a>
       <h3>CHAT Sockeio</h3>
       <p>Mensajería, notas de voz, archivos, videollamadas, presencia en línea y un asistente de IA integrado.</p>
       <p><code>React</code> <code>Node.js</code> <code>Socket.IO</code> <code>WebRTC</code></p>
@@ -109,14 +109,14 @@ Me importa crear software sencillo de usar, comprensible mientras crece y capaz 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Terateniente/WIKSAYUQ"><img width="100%" src="./assets/projects/wiksayuq.svg" alt="Aplicación de acompañamiento prenatal WIKSAYUQ" /></a>
+      <a href="https://github.com/Terateniente/WIKSAYUQ"><img width="100%" src="./assets/projects/wiksayuq-clean.svg" alt="Aplicación de acompañamiento prenatal WIKSAYUQ" /></a>
       <h3>WIKSAYUQ</h3>
       <p>Producto móvil para seguimiento prenatal y acompañamiento de pacientes, pensado para comunidades altoandinas.</p>
       <p><code>React Native</code> <code>Expo</code> <code>TypeScript</code> <code>Supabase</code></p>
       <a href="https://github.com/Terateniente/WIKSAYUQ"><img src="https://img.shields.io/badge/Código-2563EB?style=flat-square&logo=github&logoColor=white" alt="Ver WIKSAYUQ" /></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Terateniente/SAAS_MULTIEVENTOS"><img width="100%" src="./assets/projects/saas.svg" alt="SaaS Multieventos" /></a>
+      <a href="https://github.com/Terateniente/SAAS_MULTIEVENTOS"><img width="100%" src="./assets/projects/saas-clean.svg" alt="SaaS Multieventos" /></a>
       <h3>SaaS Multieventos</h3>
       <p>Plataforma SaaS que conecta administración de eventos, inventario, reportes y flujos de punto de venta.</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Supabase</code></p>
